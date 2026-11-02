@@ -1,1 +1,1 @@
-# thakaa-flow-trainin
+# thakaa-flow-training
